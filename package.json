@@ -1,0 +1,14 @@
+{
+  "name": "video-embed",
+  "version": "1.0.0",
+  "description": "Automated video embedding for a specific person",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
